@@ -1,14 +1,27 @@
-# Return Function string
-Test if its viable to return function as string val. Then use the string val as function in said environment.
+# FUNCTION AS STRING
 
-# Coverage
+> [!IMPORTANT]
+> Read this [readme.md](FUNCTION_AS_STRING%2Freadme.md) for this submodule.
+
+## Introduction
+Test if it's viable to return function as string val. Then use the string val as function in said environment.
+
+## Coverage
 | Lang   || Implementation                     |
 |--------|---|---------------------------------|
-| php    | 👍| [phpClient.php](phpClient.php)  |
-| js     | 👍| [jsClient.js](jsClient.js)      |
-| python | 👍| [pythonClient.py](pythonClient.py)|
-| go     | | WIP                                |
-|java| | WIP |
+| php    | 👍| [phpClient.php](FUNCTION_AS_STRING/phpClient.php)  |
+| js     | 👍| [jsClient.js](FUNCTION_AS_STRING/jsClient.js)      |
+| python | 👍| [pythonClient.py](FUNCTION_AS_STRING/pythonClient.py)|
 
-> [!WARNING]
-> I do not think is not doable. 
+## Conclusion 
+I do not think is not doable. 
+
+---
+
+# GPRC TEST
+> [!IMPORTANT]
+> Read this [readme.md](GRPC_TEST%2Freadme.md) for this submodule.
+
+## Introduction
+Is gRPC is ok for my use case.
+
