@@ -14,7 +14,7 @@ Test if it's viable to return function as string val. Then use the string val as
 | python | 👍| [pythonClient.py](FUNCTION_AS_STRING/pythonClient.py)|
 
 ## Conclusion 
-I do not think is not doable. 
+I do not think this is doable. Also this is apparently a huge security issue. Prone to XSS. 
 
 ---
 
